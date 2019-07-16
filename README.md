@@ -44,7 +44,7 @@ This script expects that the files you are downloading are .zip files and the ex
 
 ## Why
 
-I downloaded all the NAIP imagery for Utah, it was about 6100 zip files. The projected data was in mutiple utm zones and I wanted xzy tiles zoom level 1-16 using the traditional tools the output ends up being hundreds of gigs of data. After running this script my end files size was 100s % smaller.  
+I downloaded all the NAIP imagery for Utah, it was about 6100 zip files (50gb). The projected data was in mutiple utm zones and I wanted xzy tiles zoom level 1-16 using the traditional tools the output ends up being hundreds of gigs of data. After running this script my end files size was 100s % smaller.  
 
 
 
