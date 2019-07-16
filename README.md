@@ -2,7 +2,7 @@
 
 Python tool chain that downloads NAIP imagery in zip file format, extracts the zip files, combines the individual files, reprojects the files, creates larger files for faster tiling, tiles the imagery based on xyz, converts png to jpg and compresses each jpg, and finaly packages everything in a mbtiles sqlite database.
 
-## Setup Python Enviroment
+## Setup Python Environment
 I am using conda the script needs gdal and imagemagick. I am also using some code from mbutil(mapbox) in this tool chain.
 
 ```
